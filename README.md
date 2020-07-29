@@ -6,7 +6,7 @@
       "name": "README.md",
       "provenance": [],
       "collapsed_sections": [],
-      "authorship_tag": "ABX9TyNGhl+J4+Bs6csLI+LunqY0",
+      "authorship_tag": "ABX9TyOgwD4V2EPqWAv5pkX7dpiW",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -26,16 +26,17 @@
       ]
     },
     {
-      "cell_type": "markdown",
+      "cell_type": "code",
       "metadata": {
-        "id": "AD3vTECEZ75B",
-        "colab_type": "text"
+        "id": "hoZBU-Sti5mI",
+        "colab_type": "code",
+        "colab": {}
       },
       "source": [
-        "hello world\n",
-        "\n",
-        "\n"
-      ]
+        "hello world"
+      ],
+      "execution_count": null,
+      "outputs": []
     }
   ]
 }
